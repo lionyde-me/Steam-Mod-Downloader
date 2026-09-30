@@ -58,8 +58,7 @@ direction, through the following conversation:
   autonomous coding agent — each change was made in response to a specific request
   in the conversation, and no code was run or tested against a live SteamCMD/RimWorld
   installation by the AI.
-- **Subscription tier:** not visible to the assistant and not recorded here — check
-  your own Anthropic account/billing settings if this needs to be stated precisely.
+- **Subscription tier:** Free subcsription tier
 - **Date generated:** conversation dated around September 29, 2026.
 
 If you redistribute this script, consider keeping this section updated or replacing
